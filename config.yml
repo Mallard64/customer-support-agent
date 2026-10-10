@@ -1,14 +1,10 @@
 # Model and sampling settings for each step of the support agent.
 steps:
   classify:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-sol
   decide:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-sol
   draft:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-sol
   tone:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-sol
