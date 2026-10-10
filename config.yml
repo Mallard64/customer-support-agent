@@ -1,14 +1,11 @@
 # Model and sampling settings for each step of the support agent.
 steps:
   classify:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-luna
   decide:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-luna
   draft:
-    model: gpt-4
-    temperature: 0
+    model: gpt-5.6-luna
   tone:
-    model: gpt-4
+    model: ollama/llama3.1:8b
     temperature: 0
