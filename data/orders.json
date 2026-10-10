@@ -1,0 +1,87 @@
+{
+  "A1001": {
+    "item": "Wireless earbuds",
+    "price": 79.0,
+    "status": "delivered",
+    "delivered": "2026-09-20"
+  },
+  "A1002": {
+    "item": "Wool sweater",
+    "price": 120.0,
+    "status": "delivered",
+    "delivered": "2026-08-25"
+  },
+  "A1003": {
+    "item": "Desk lamp (clearance)",
+    "price": 35.0,
+    "status": "delivered",
+    "delivered": "2026-09-28",
+    "final_sale": true
+  },
+  "A1004": {
+    "item": "Blender",
+    "price": 89.99,
+    "status": "shipped",
+    "estimated_delivery": "2026-10-04"
+  },
+  "A1005": {
+    "item": "Ceramic mug set (4)",
+    "price": 42.0,
+    "status": "delivered",
+    "delivered": "2026-10-01"
+  },
+  "A1006": {
+    "item": "Desk chair",
+    "price": 249.0,
+    "status": "processing"
+  },
+  "A1007": {
+    "item": "Backpack",
+    "price": 65.0,
+    "status": "delivered",
+    "delivered": "2026-09-06"
+  },
+  "A1008": {
+    "item": "Phone case",
+    "price": 19.99,
+    "status": "delivered",
+    "delivered": "2026-09-05"
+  },
+  "A1009": {
+    "item": "Running shoes",
+    "price": 110.0,
+    "status": "delivered",
+    "delivered": "2026-09-15"
+  },
+  "A1010": {
+    "item": "Throw blanket",
+    "price": 38.0,
+    "status": "shipped",
+    "estimated_delivery": "2026-09-26"
+  },
+  "A1011": {
+    "item": "Scarf",
+    "price": 54.5,
+    "status": "delivered",
+    "delivered": "2026-09-26"
+  },
+  "A1012": {
+    "item": "Ceramic vase (clearance)",
+    "price": 28.0,
+    "status": "delivered",
+    "delivered": "2026-09-05",
+    "final_sale": true
+  },
+  "A1013": {
+    "item": "Lamp shade",
+    "price": 22.0,
+    "status": "shipped",
+    "estimated_delivery": "2026-09-29"
+  },
+  "A1014": {
+    "item": "Electric kettle",
+    "price": 45.0,
+    "status": "shipped",
+    "estimated_delivery": "2026-09-30"
+  }
+}

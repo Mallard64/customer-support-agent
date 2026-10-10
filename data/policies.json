@@ -1,0 +1,30 @@
+{
+  "refund": {
+    "policy_id": "REFUND-01",
+    "text": "Unused items can be returned for a full refund within 30 days of delivery (day 30 counts). Final-sale items cannot be returned or refunded. Refunds go to the original payment method in 5-7 business days. Without an order ID, ask for it."
+  },
+  "damaged": {
+    "policy_id": "DAMAGE-02",
+    "text": "Items that arrive damaged or defective get a free replacement if reported within 30 days of delivery. This applies to final-sale items too. After 30 days, escalate to the warranty team. Without an order ID, ask for it."
+  },
+  "shipping": {
+    "policy_id": "SHIP-03",
+    "text": "If an order is 1-6 days past its estimated delivery date, apologize and share the tracking link (action: info). If it is 7 or more days late, ship a free replacement (action: replace). Without an order ID, ask for it."
+  },
+  "cancel": {
+    "policy_id": "CANCEL-04",
+    "text": "Orders with status 'processing' can be cancelled for a full refund. Orders already shipped cannot be cancelled; the customer may return the item after delivery (action: deny). Without an order ID, ask for it."
+  },
+  "billing": {
+    "policy_id": "BILLING-05",
+    "text": "All charge disputes and duplicate charges go to the billing team (action: escalate). Never promise a refund or an amount."
+  },
+  "account": {
+    "policy_id": "ACCOUNT-06",
+    "text": "For login or password problems, direct the customer to the 'Forgot password' reset link (action: info). Requests to change the account email need identity verification by the account team (action: escalate). Never change account details over chat."
+  },
+  "other": {
+    "policy_id": "GENERAL-07",
+    "text": "Questions outside returns, damage, shipping, cancellations, billing and accounts go to the general support team (action: escalate)."
+  }
+}
